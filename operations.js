@@ -14,3 +14,7 @@
 let gameCounter = 100
 gameCounter--;
 console.log(gameCounter)
+
+let game = 100
+++game; //prefix and postfix.
+console.log(game)
